@@ -11,9 +11,10 @@
 
 This is a web version of the ghpm cli.
 
+- https://github.com/Neal-C/ghpm
 - https://github.com/Neal-C/gh-ghpm
 - https://github.com/Neal-C/gh-ghpm-rs
-- https://github.com/Neal-C/ghpm
+- https://github.com/Neal-C/gh-zghpm
 
 The web version allows to switch your repositories between public and private with a few clicks.
 
